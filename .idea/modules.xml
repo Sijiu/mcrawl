@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Tplain/.idea/Tmobile.iml" filepath="$PROJECT_DIR$/../Tplain/.idea/Tmobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/acrawl.iml" filepath="$PROJECT_DIR$/.idea/acrawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../asd/.idea/mbase.iml" filepath="$PROJECT_DIR$/../asd/.idea/mbase.iml" />
+    </modules>
+  </component>
+</project>
